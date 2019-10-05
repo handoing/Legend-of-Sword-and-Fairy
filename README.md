@@ -9,6 +9,7 @@
 #### 使用
 ```shell
 git clone https://github.com/handoing/Legend-of-Sword-and-Fairy
+cd Legend-of-Sword-and-Fairy
 ./dosbox -conf jianti.conf // 简体版
 ./dosbox -conf fanti.conf // 繁体版
 ```
